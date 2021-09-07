@@ -1,0 +1,12 @@
+.underline1, .underline2 {
+    text-decoration:underline;
+}
+.highlight{
+    background-color:orange;
+}
+.red1,.red2{
+    color: red;
+}
+.spacing{
+    width:350px;
+}
